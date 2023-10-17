@@ -1,2 +1,2 @@
 # POWERBI.pbix
-Inicio de um trabalho da plataforma DIO. Futuramente pretendo retornar ao repositório com mais conhecimento.
+Início de um trabalho da plataforma DIO. Futuramente pretendo retornar ao repositório com mais conhecimento.
